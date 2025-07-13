@@ -2,7 +2,7 @@
 
 `rkdbg` is a graphical debug overlay to be used with any graphics related programs. When working on projects using raylib, I keep finding myself making one of these. So, I thought I might spend some time to make a bit of a library for myself to use instead.
 
-![[image]](resources/screenshot000.png)
+![[image]](resources/example.png)
 
 This is a header-only library, so there's no need for precompiling when using the library yourself!
 
